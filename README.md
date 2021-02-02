@@ -1,4 +1,5 @@
 # Functionator
+Learn and explore more about functions.  Select movement by key presses, run the sequence of movements. Remove movements by click on the step.
 
 # Features
 - Random phrases for typing test.
